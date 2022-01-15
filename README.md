@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://user-images.githubusercontent.com/14357901/149635698-a96cc0d0-d21b-4e17-92a6-36b294e6297c.png" alt="cover" />
+<img width="100%" height = "250px" src="https://user-images.githubusercontent.com/14357901/149636921-0f3a5c34-abae-4465-95c8-05f80f6fe289.png" alt="cover" />
 </div>
 
 Experienced Full Stack Engineer with a demonstrated history of working in the information technology , product and services industry.
